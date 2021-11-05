@@ -6,7 +6,11 @@ namespace ArchitectArithmetic
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine(Rect(10,15));
+        }
+        static double Rect(double length, double width)
+        {
+        return length * width;
         }
     }
 }
