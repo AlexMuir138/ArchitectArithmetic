@@ -1,0 +1,15 @@
+/Users/alexmuir/source/codeacademy/ArchitectArithmetic/bin/Debug/net5.0/ArchitectArithmetic.deps.json
+/Users/alexmuir/source/codeacademy/ArchitectArithmetic/bin/Debug/net5.0/ArchitectArithmetic.runtimeconfig.json
+/Users/alexmuir/source/codeacademy/ArchitectArithmetic/bin/Debug/net5.0/ArchitectArithmetic.runtimeconfig.dev.json
+/Users/alexmuir/source/codeacademy/ArchitectArithmetic/bin/Debug/net5.0/ArchitectArithmetic.dll
+/Users/alexmuir/source/codeacademy/ArchitectArithmetic/bin/Debug/net5.0/ref/ArchitectArithmetic.dll
+/Users/alexmuir/source/codeacademy/ArchitectArithmetic/bin/Debug/net5.0/ArchitectArithmetic.pdb
+/Users/alexmuir/source/codeacademy/ArchitectArithmetic/obj/Debug/net5.0/ArchitectArithmetic.csproj.AssemblyReference.cache
+/Users/alexmuir/source/codeacademy/ArchitectArithmetic/obj/Debug/net5.0/ArchitectArithmetic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexmuir/source/codeacademy/ArchitectArithmetic/obj/Debug/net5.0/ArchitectArithmetic.AssemblyInfoInputs.cache
+/Users/alexmuir/source/codeacademy/ArchitectArithmetic/obj/Debug/net5.0/ArchitectArithmetic.AssemblyInfo.cs
+/Users/alexmuir/source/codeacademy/ArchitectArithmetic/obj/Debug/net5.0/ArchitectArithmetic.csproj.CoreCompileInputs.cache
+/Users/alexmuir/source/codeacademy/ArchitectArithmetic/obj/Debug/net5.0/ArchitectArithmetic.dll
+/Users/alexmuir/source/codeacademy/ArchitectArithmetic/obj/Debug/net5.0/ref/ArchitectArithmetic.dll
+/Users/alexmuir/source/codeacademy/ArchitectArithmetic/obj/Debug/net5.0/ArchitectArithmetic.pdb
+/Users/alexmuir/source/codeacademy/ArchitectArithmetic/obj/Debug/net5.0/ArchitectArithmetic.genruntimeconfig.cache
